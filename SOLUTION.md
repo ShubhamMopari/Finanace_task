@@ -1,0 +1,8 @@
+- Used FastAPI with async SQLAlchemy
+- PostgreSQL configured through Docker
+- Enforced all business rules from assignment
+- Added deterministic seed UUIDs
+- Implemented CRUD grant endpoints
+- Added revoke authorization validation
+- Added integration and unit test structure
+- Used soft revoke strategy
